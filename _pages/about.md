@@ -6,7 +6,7 @@ subtitle: Robotics Researcher · HEA Fellow · University of Sheffield
 
 profile:
   align: right
-  image: prof1.jpeg   # just the filename, no path
+  image: prof1.png   # just the filename, no path
   image_circular: false
   more_info: >
     <p>Sheffield, United Kingdom</p>
