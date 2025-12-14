@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2025-10-15 10:00:00 +0000
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+I was awarded the **IROS-SDC Award** to support my participation and presentation at **IEEE/RSJ IROS 2025 in Hangzhou, China**, recognizing the quality and impact of my research in modular and swarm robotics. 🏆🤖✨
