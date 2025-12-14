@@ -1,52 +1,51 @@
-<ul class="card-text font-weight-light list-group list-group-flush">
-  {% assign education = data[1] | sort: 'startDate' | reverse %}
-  {% for content in education %}
+## Awards
+<ul class="list-group list-group-flush">
+  {% for award in site.data.cv.awards %}
     <li class="list-group-item">
       <div class="row">
-        <div class="col-xs-2 cl-sm-2 col-md-2 text-center date-column">
-          {% if content.startDate and content.startDate != '' %}
-            {% assign startDate = content.startDate | split: '-' | slice: 0, 2 | join: '.' %}
-            {% assign endDate = content.endDate | split: '-' | slice: 0, 2 | join: '.' | default: 'Present' %}
-            {% assign date = startDate | append: ' - ' %}
-            {% assign date = date | append: endDate %}
-          {% else %}
-            {% assign date = null %}
-          {% endif %}
-          <table class="table-cv">
-            <tbody>
-              <tr>
-                <td>
-                  {% if date %}
-                    <span class="badge font-weight-bold danger-color-dark text-uppercase align-middle" style="min-width: 75px"> {{ date }} </span>
-                  {% endif %}
-                </td>
-              </tr>
-              {% if content.location %}
-                <tr>
-                  <td>
-                    <p class="location">
-                      <i class="fa-solid fa-location-dot iconlocation"></i>
-                      {{ content.location }}
-                    </p>
-                  </td>
-                </tr>
-              {% endif %}
-            </tbody>
-          </table>
+        <div class="col-2 text-center">
+          <span class="badge bg-primary">{{ award.date | date: "%Y.%m.%d" }}</span>
         </div>
-        <div class="col-xs-10 cl-sm-10 col-md-10 mt-2 mt-md-0">
-          <h6 class="title font-weight-bold ml-1 ml-md-4">
-            <a href="{{ content.url }}">{{ content.studyType }}</a>
-          </h6>
-          <h6 class="ml-1 ml-md-4" style="font-size: 0.95rem">{{ content.institution }}</h6>
-          <h6 class="ml-1 ml-md-4" style="font-size: 0.95rem; font-style: italic">{{ content.area }}</h6>
-          <ul class="items">
-            {% for item in content.courses %}
-              <li>
-                <span class="item">{{ item }}</span>
-              </li>
-            {% endfor %}
-          </ul>
+        <div class="col-10">
+          <h6><a href="{{ award.url }}">{{ award.title }}</a></h6>
+          <h6>{{ award.awarder }}</h6>
+          <p><em>{{ award.summary }}</em></p>
+        </div>
+      </div>
+    </li>
+  {% endfor %}
+</ul>
+
+## Certificates
+<ul class="list-group list-group-flush">
+  {% for cert in site.data.cv.certificates %}
+    <li class="list-group-item">
+      <div class="row">
+        <div class="col-2 text-center">
+          <span class="badge bg-success">{{ cert.date | date: "%Y.%m.%d" }}</span>
+        </div>
+        <div class="col-10">
+          <h6><a href="{{ cert.url }}">{{ cert.title }}</a></h6>
+          <h6>{{ cert.awarder }}</h6>
+          <p><em>{{ cert.summary }}</em></p>
+        </div>
+      </div>
+    </li>
+  {% endfor %}
+</ul>
+
+## Publications
+<ul class="list-group list-group-flush">
+  {% for pub in site.data.cv.publications %}
+    <li class="list-group-item">
+      <div class="row">
+        <div class="col-2 text-center">
+          <span class="badge bg-warning">{{ pub.date | date: "%Y.%m.%d" }}</span>
+        </div>
+        <div class="col-10">
+          <h6><a href="{{ pub.url }}">{{ pub.title }}</a></h6>
+          <h6>{{ pub.awarder }}</h6>
+          <p><em>{{ pub.summary }}</em></p>
         </div>
       </div>
     </li>
