@@ -1,19 +1,44 @@
-<ul class="card-text font-weight-light list-group list-group-flush">
-  {% for content in data[1] %}
-    <li class="list-group-item">
-      <div class="row">
-        <div class="col-xs-2 cl-sm-2 col-md-2 text-center date-column">
-          {% if content.date %} {% assign date = content.date | split: '-' | join: '.' %} {% else %} {% assign date = '' %} {% endif %}
-          <span class="badge font-weight-bold danger-color-dark text-uppercase align-middle" style="min-width: 75px"> {{ date }} </span>
-        </div>
-        <div class="col-xs-10 cl-sm-10 col-md-10 mt-2 mt-md-0">
-          <h6 class="title font-weight-bold ml-1 ml-md-4">
-            <a href="{{ content.url }}">{{ content.title }}</a>
-          </h6>
-          <h6 class="ml-1 ml-md-4" style="font-size: 0.95rem">{{ content.awarder }}</h6>
-          <h6 class="ml-1 ml-md-4" style="font-size: 0.95rem; font-style: italic">{{ content.summary }}</h6>
-        </div>
-      </div>
-    </li>
-  {% endfor %}
-</ul>
+awards:
+  - date: 2025-11-01
+    title: "IROS-SDC Travel Award"
+    awarder: "IEEE/RSJ International Conference on Intelligent Robots and Systems"
+    summary: "Competitive award supporting travel to present research at IROS 2025."
+    url: "https://www.ieee-iros.org/"
+
+  - date: 2025-12-01
+    title: "PhD Viva Passed"
+    awarder: "University of Sheffield"
+    summary: "Successfully defended PhD thesis on robotics and modular systems."
+    url: "#"
+
+  - date: 2019-03-01
+    title: "UBFC Excellence Research Scholarship"
+    awarder: "Université Bourgogne Franche-Comté / University of Texas at Dallas"
+    summary: "6-month research funding for systems engineering project."
+    url: "#"
+
+certificates:
+  - date: 2023-04-01
+    title: "MATLAB Reinforcement Learning Onramp"
+    awarder: "MathWorks"
+    summary: ""
+    url: "https://www.mathworks.com/"
+
+  - date: 2022-12-01
+    title: "Industrial Artificial Intelligence & Digital Manufacturing"
+    awarder: "Siemens, Manchester"
+    summary: ""
+    url: "#"
+
+publications:
+  - date: 2025-07-01
+    title: "Scalable Plug-and-Play Robotic Fabrics Based on Kilobot Modules"
+    awarder: "IEEE RA-L"
+    summary: "Published research on modular swarm robotics."
+    url: "https://orda.shef.ac.uk/articles/media/Scalable_Plug-and-Play_Robotic_Fabrics_Based_on_Kilobot_Modules_Supplementary_Material_/27021310"
+
+  - date: 2025-01-01
+    title: "Robust H-infinity control of two novel MEMS force sensors"
+    awarder: "IOP SciNotes"
+    summary: ""
+    url: "#"
