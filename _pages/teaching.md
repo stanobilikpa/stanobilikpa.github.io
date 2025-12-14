@@ -85,11 +85,4 @@ I have over six years of experience delivering and supporting high-quality teach
 ## Teaching Philosophy
 My teaching philosophy is grounded in **experiential learning**, **inclusive pedagogy**, and **research-led instruction**. I aim to equip students with strong analytical foundations while fostering creativity, teamwork, and problem-solving skills essential for modern engineering practice.
 
----
 
-If you want, next I can:
-- Convert this page into a **course collection** (one page per course)
-- Add **teaching photos or labs**
-- Align this page with **UK PSF / FHEA descriptors**
-
-Just tell me 👍
