@@ -38,13 +38,11 @@ I am actively involved in outreach and professional societies, including the **I
 
 ---
 
-### Motto
-> "Innovate, Inspire, Impact – Engineering the future, one robot at a time."
 
 ---
 
 You can optionally link your social media and academic profiles below using Font Awesome or Academicons:
 
-- [LinkedIn](https://www.linkedin.com/in/stanley-obilikpa)
+- [LinkedIn](https://www.linkedin.com/in/stanley-chukwuebuka-obilikpa-224045145/)
 - [Google Scholar](https://scholar.google.com/citations?user=XXXX)
 - [ORCID](https://orcid.org/XXXX)
