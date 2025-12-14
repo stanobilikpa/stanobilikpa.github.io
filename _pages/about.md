@@ -6,8 +6,8 @@ subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
-  image: /_includes/prof.jpeg
-  image_circular: true
+  image: /assets/img/prof.jpeg
+  image_circular: false
   more_info: >
     <p>Sheffield, United Kingdom</p>
 
