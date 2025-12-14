@@ -1,5 +1,11 @@
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am Stanley Chukwuebuka Obilikpa, a robotics researcher, lecturer, and HEA Fellow with a passion for intelligent systems, modular robotics, and automation. Over the past six years, I have engaged in teaching, research, and mentoring at undergraduate and postgraduate levels, combining practical engineering with innovative problem-solving.  
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My research focuses on swarm robotics, smart systems, machine learning, and robust control. I have presented my work at top international venues, including IEEE/RSJ IROS, UK-RAS conferences, and faculty research symposia. My publications include contributions to IEEE Robotics and Automation Letters and IOP SciNotes, among others.  
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Beyond academia, I actively contribute to outreach and professional communities. I have served as a Social Media Ambassador for IROS 2025, inspired young people through STEM programs, and volunteered with the Royal Academy of Engineering Ingenious Award projects.  
+
+I am committed to translating advanced engineering concepts into real-world applications, fostering creativity in students, and advancing robotics research for sustainable and impactful solutions.  
+
+Learn more about my work, publications, and projects through my [GitHub](https://github.com/stanobilikpa), [Google Scholar](https://scholar.google.com/citations?user=YOUR_ID), and [LinkedIn](https://www.linkedin.com/in/stanley-chukwuebuka-obilikpa-224045145/) profiles.  
+
+Fun fact: I enjoy exploring robotics subreddits like [r/robotics](http://reddit.com/r/robotics) to stay inspired by the latest developments in autonomous systems and AI.
