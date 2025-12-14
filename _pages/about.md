@@ -7,11 +7,11 @@ subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Sheffield, United Kingdom</p>
+    <p>Phone: +44 7824 035917</p>
+    <p>Email: <a href="mailto:scobilikpa1@sheffield.ac.uk">scobilikpa1@sheffield.ac.uk</a></p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -27,8 +27,23 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+## Biography
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I am **Stanley Chukwuebuka Obilikpa**, a dedicated engineering academic and robotics researcher specializing in **modular robotics, swarm systems, and intelligent control**. With over six years of experience in teaching, research, and mentoring, I focus on integrating **innovative engineering solutions with real-world applications**, fostering creativity and critical thinking in students.  
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I hold a **PhD in Automatic Control and Systems Engineering** from the University of Sheffield and have presented my work at top international conferences, including **IEEE/RSJ IROS** and UK-RAS events. My research emphasizes **modular swarm robotics, scalable intelligent systems, and sustainable automation**.
+
+I am actively involved in outreach and professional societies, including the **IEEE Robotics and Automation Society**, and a **Fellow of the Higher Education Academy (FHEA)**. I strive to inspire the next generation of engineers through **hands-on STEM education, mentoring, and public engagement**.
+
+---
+
+### Motto
+> "Innovate, Inspire, Impact – Engineering the future, one robot at a time."
+
+---
+
+You can optionally link your social media and academic profiles below using Font Awesome or Academicons:
+
+- [LinkedIn](https://www.linkedin.com/in/stanley-obilikpa)
+- [Google Scholar](https://scholar.google.com/citations?user=XXXX)
+- [ORCID](https://orcid.org/XXXX)
