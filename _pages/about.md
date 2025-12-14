@@ -6,10 +6,11 @@ subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
-  image: prof_pic.jpg
-  image_circular: true # crops the image to make it circular
+  image: /_includes/prof.jpeg
+  image_circular: true
   more_info: >
     <p>Sheffield, United Kingdom</p>
+
     <p>Phone: +44 7824 035917</p>
     <p>Email: <a href="mailto:scobilikpa1@sheffield.ac.uk">scobilikpa1@sheffield.ac.uk</a></p>
 
