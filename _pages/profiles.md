@@ -1,28 +1,32 @@
 ---
 layout: profiles
 permalink: /people/
-title: people
-description: members of the lab or group
+title: People
+description: Members of our robotics lab and research group
 nav: true
 nav_order: 7
 
 profiles:
-  # if you want to include more than one profile, just replicate the following block
-  # and create one content file for each profile inside _pages/
+  # Your profile
   - align: right
-    image: prof_pic.jpg
-    content: about_einstein.md
-    image_circular: false # crops the image to make it circular
+    image: /assets/img/prof.jpeg
+    content: about.md
+    image_circular: false
     more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+      <p>Office: Department of Automatic Control & Systems Engineering</p>
+      <p>University of Sheffield, Sheffield, United Kingdom</p>
+      <p>Phone: +44 7824 035917</p>
+      <p>Email: <a href="mailto:scobilikpa1@sheffield.ac.uk">scobilikpa1@sheffield.ac.uk</a></p>
+      <p>Fellow of the Higher Education Academy (FHEA)</p>
+      <p>IEEE Member, UK-RAS Network Participant</p>
+
+  # Example second profile (if needed)
   - align: left
-    image: prof_pic.jpg
-    content: about_einstein.md
-    image_circular: false # crops the image to make it circular
+    image: /assets/img/prof.jpeg
+    content: about.md
+    image_circular: false
     more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+      <p>Co-researcher in robotics and modular systems</p>
+      <p>Contact info and role details here</p>
 ---
+
