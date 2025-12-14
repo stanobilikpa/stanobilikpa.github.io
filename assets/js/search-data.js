@@ -45,8 +45,8 @@ ninja.data = [{
             window.location.href = "/cv/";
           },
         },{id: "nav-teaching",
-          title: "teaching",
-          description: "Materials for courses you taught. Replace this text with your description.",
+          title: "Teaching",
+          description: "Courses taught and supported across undergraduate and postgraduate levels in robotics, control, and mechatronics.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/teaching/";
