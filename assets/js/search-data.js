@@ -440,18 +440,18 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
           section: "News",},{id: "news-i-attended-the-ieee-rsj-international-conference-on-intelligent-robots-and-systems-iros-2025-in-hangzhou-china-from-19th-to-25th-october-2025-during-the-conference-i-presented-our-research-on-scalable-plug-and-play-robotic-fabrics-based-on-kilobot-modules-providing-an-excellent-opportunity-to-share-findings-with-international-robotics-experts-and-engage-in-collaborative-discussions-i-also-served-as-a-social-media-ambassador-promoting-conference-activities-and-research-highlights-across-ieee-ras-platforms",
           title: 'I attended the IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2025)...',
           description: "",
-          section: "News",},{id: "projects-project-1",
+          section: "News",},{id: "news-phd-thesis-successfully-defended",
+          title: 'PhD Thesis Successfully Defended',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_2/";
+            },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
           section: "Projects",handler: () => {
