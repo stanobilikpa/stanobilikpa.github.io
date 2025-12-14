@@ -407,12 +407,7 @@ ninja.data = [{
             window.location.href = "/blog/2015/formatting-and-links/";
           
         },
-      },{id: "books-the-godfather",
-          title: 'The Godfather',
-          description: "",
-          section: "Books",handler: () => {
-              window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
+      },{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
           section: "News",},{id: "news-i-attended-the-ieee-rsj-international-conference-on-intelligent-robots-and-systems-iros-2025-in-hangzhou-china-from-19th-to-25th-october-2025-during-the-conference-i-presented-our-research-on-scalable-plug-and-play-robotic-fabrics-based-on-kilobot-modules-providing-an-excellent-opportunity-to-share-findings-with-international-robotics-experts-and-engage-in-collaborative-discussions-i-also-served-as-a-social-media-ambassador-promoting-conference-activities-and-research-highlights-across-ieee-ras-platforms",
