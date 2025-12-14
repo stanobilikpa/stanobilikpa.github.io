@@ -1,47 +1,33 @@
 ---
 layout: page
 permalink: /repositories/
-title: repositories
-description: Edit the `_data/repositories.yml` and change the `github_users` and `github_repos` lists to include your own GitHub profile and repositories.
+title: Repertoire
+description: Selected publications and research outputs.
 nav: true
 nav_order: 4
 ---
 
-{% if site.data.repositories.github_users %}
+## My Research Repertoire
 
-## GitHub users
+<div class="repositories d-flex flex-column gap-3">
 
-<div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
-  {% for user in site.data.repositories.github_users %}
-    {% include repository/repo_user.liquid username=user %}
-  {% endfor %}
-</div>
-
----
-
-{% if site.repo_trophies.enabled %}
-{% for user in site.data.repositories.github_users %}
-{% if site.data.repositories.github_users.size > 1 %}
-
-  <h4>{{ user }}</h4>
-  {% endif %}
-  <div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
-  {% include repository/repo_trophies.liquid username=user %}
+  <div class="repo-item">
+    <h5>Scalable Plug-and-Play Robotic Fabrics Based on Kilobot Modules</h5>
+    <p><strong>Authors:</strong> Obilikpa, S.C., Talamali, M.S., Miyauchi, G., Oyekan, J., Groß, R.</p>
+    <p><strong>Journal:</strong> IEEE Robotics and Automation Letters (RA-L), 2025, Vol. 10, No. 7, pp. 6832–6839.</p>
+    <p><a href="https://orda.shef.ac.uk/articles/media/Scalable_Plug-and-Play_Robotic_Fabrics_Based_on_Kilobot_Modules_Supplementary_Material_/27021310" target="_blank">Supplementary Material / Full Paper</a></p>
   </div>
 
----
+  <div class="repo-item">
+    <h5>Robust H-infinity Control of Two Novel MEMS Force Sensors</h5>
+    <p><strong>Authors:</strong> Obilikpa, S.C.</p>
+    <p><strong>Journal:</strong> IOP SciNotes, 2025</p>
+  </div>
 
-{% endfor %}
-{% endif %}
-{% endif %}
+  <div class="repo-item">
+    <h5>Design and Numerical Simulation of a Novel High-Speed Multi-DOF Piezoelectric Positioner</h5>
+    <p><strong>Authors:</strong> Obilikpa, S.C., Onochie, U.P., Nweze, C.S., Kalu, B.O., Anazodo, K.B.I.</p>
+    <p><strong>Journal:</strong> Journal of Applied Science and Engineering, 24(3), 2021</p>
+  </div>
 
-{% if site.data.repositories.github_repos %}
-
-## GitHub Repositories
-
-<div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
-  {% for repo in site.data.repositories.github_repos %}
-    {% include repository/repo.liquid repository=repo %}
-  {% endfor %}
 </div>
-{% endif %}
