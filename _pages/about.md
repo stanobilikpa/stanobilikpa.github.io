@@ -31,7 +31,7 @@ latest_posts:
 
 I am **Stanley Chukwuebuka Obilikpa**, a dedicated engineering academic and robotics researcher specializing in **modular robotics, swarm systems, and intelligent control**. With over six years of experience in teaching, research, and mentoring, I focus on integrating **innovative engineering solutions with real-world applications**, fostering creativity and critical thinking in students.  
 
-I hold a **PhD in Automatic Control and Systems Engineering** from the University of Sheffield and have presented my work at top international conferences, including **IEEE/RSJ IROS** and UK-RAS events. My research emphasizes **modular swarm robotics, scalable intelligent systems, and sustainable automation**.
+I recently completed my **PhD in Automatic Control and Systems Engineering** from the University of Sheffield and have presented my work at top international conferences, including **IEEE/RSJ IROS** and UK-RAS events. My research emphasizes **modular swarm robotics, scalable intelligent systems, and sustainable automation**.
 
 I am actively involved in outreach and professional societies, including the **IEEE Robotics and Automation Society**, and a **Fellow of the Higher Education Academy (FHEA)**. I strive to inspire the next generation of engineers through **hands-on STEM education, mentoring, and public engagement**.
 
