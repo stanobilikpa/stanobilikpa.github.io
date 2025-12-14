@@ -10,7 +10,6 @@ profile:
   image_circular: false
   more_info: >
     <p>Sheffield, United Kingdom</p>
-    <p>Phone: +44 7824 035917</p>
     <p>Email: <a href="mailto:scobilikpa1@sheffield.ac.uk">scobilikpa1@sheffield.ac.uk</a></p>
 
 
