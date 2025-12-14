@@ -6,13 +6,13 @@ subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
-  image: /assets/img/prof.jpeg
+  image: prof.jpeg   # just the filename, no path
   image_circular: false
   more_info: >
     <p>Sheffield, United Kingdom</p>
-
     <p>Phone: +44 7824 035917</p>
     <p>Email: <a href="mailto:scobilikpa1@sheffield.ac.uk">scobilikpa1@sheffield.ac.uk</a></p>
+
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
