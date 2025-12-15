@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://stanobilikpa.github.io/sitemap.xml
+Sitemap: https://stanley_c_obilikpa.github.io/sitemap.xml
