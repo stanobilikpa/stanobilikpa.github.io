@@ -1,4 +1,10 @@
-## Announcements
+---
+layout: news
+title: Teaching Recognition Awards 2024/25
+date: 2025-07-19
+inline: true
+related_posts: false
+---
 
 <span style="color:var(--global-theme-color);">Stanley C. Obilikpa</span> has been honoured with multiple teaching awards for the 2024/25 academic year at the University of Sheffield:  
 
