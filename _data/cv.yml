@@ -4,7 +4,7 @@
     - name: Full Name
       value: Stanley Chukwuebuka Obilikpa
     - name: Position
-      value: Robotics Researcher | Lecturer | HEA Fellow
+      value: Robotics Researcher | Lecturer | HEA Fellow | IEEE Member
     - name: Email
       value: scobilikpa1@sheffield.ac.uk
     - name: Phone
@@ -12,7 +12,7 @@
     - name: Location
       value: Sheffield, United Kingdom
     - name: Languages
-      value: English
+      value: English, Igbo (Native), French (Intermediate)
 
 - title: Education
   type: time_table
@@ -21,7 +21,7 @@
       institution: University of Sheffield, United Kingdom
       year: 2022 – 2025
       description:
-        - PhD (viva passed) with focus on robotics, modular systems, and intelligent control.
+        - Focus on robotics, modular systems, and intelligent control.
         - Research on deformable swarm and modular robotic systems.
     - title: MSc in Control for Green Mechatronics (Robotics & Automation)
       institution: Université Bourgogne Franche-Comté, France
@@ -38,24 +38,62 @@
 - title: Academic & Teaching Experience
   type: time_table
   contents:
-    - title: Teaching Assistant
+    - title: Teaching Assistant / Graduate Teaching Assistant
       institution: University of Sheffield, United Kingdom
       year: 2022 – Present
       description:
         - Delivered laboratory and tutorial sessions in robotics, control systems, PLCs, machine learning, and embedded systems.
         - Supported undergraduate and MEng group design projects.
-    - title: Lecturer II (Mechanical/Mechatronics Engineering)
+        - **Department of Automatic Control and Systems Engineering**
+          - Industrial Automation (ACS6131) – Siemens PLC programming using Bytronic kits
+          - Foundation Robotics (ACS6501)
+          - Robotic Systems (ACS337)
+          - Machine Learning (ACS341)
+          - Modelling, Analysis, and Control (ACS132)
+          - Process Control (ACS219)
+          - System and Control (GEE205)
+          - Introduction to Systems Engineering and Software (ACS130)
+          - Digital and Embedded Systems (ACS11001)
+        - **Multidisciplinary Engineering Education (MEE)**
+          - **Electronic & Control (E & C) Lab**
+            - PLC and Event-Based Programming (AMR21001) – Ladder logic using Allen-Bradley PLCs
+            - Control Systems Design and Analysis (ACS230)
+            - Mechatronics Design Project (ACS231)
+            - Design & Build Project – Software & Hardware (ACS130)
+            - Frequency Domain Analysis & Discrete Systems (GEE205)
+          - **Structures & Dynamics Lab**
+            - Elastic Instability: Torsional Buckling, Thin Plate, Frames (GEE208)
+            - Tissue Elasticity (IPE01001)
+            - Material Characterization: Tensile Test (MEC209)
+            - Hole-in-Plate: Mohr’s Circles (MAT1600)
+            - Stress Distribution in a Thick-Walled Cylinder (AMR223)
+            - Pasco Bridge Experiment (AER21002)
+          - **Cleanroom Lab**
+            - Micro-measurement (GEE102), Saw Filter (EEE228)
+          - **Project Space Workshop**
+            - CNC laser machining and digital manufacturing
+            - Trained ~100 undergraduate students across 30+ lab sessions
+    - title: Teaching Assistant – Group Design Project
+      institution: Department of Bioengineering, University of Sheffield
+      year: Feb – Apr 2025
+      description:
+        - Supported 3rd-year students in designing/building thermal cyclers for DNA amplification
+        - Provided guidance on Arduino programming, electronic circuit design, and Peltier thermal control
+        - Assisted teams in troubleshooting, optimisation, and safe lab practice
+    - title: Lecturer II – Mechanical / Mechatronics Engineering
       institution: Alex Ekwueme Federal University, Nigeria
       year: 2016 – 2022
       description:
-        - Taught automation, control, machine design, and mechatronics courses.
-        - Served as Exam Officer and SIWES Coordinator.
+        - Taught automation, control, mechanical vibrations, mechatronics, and machine design
+        - Coordinated Mechatronics Virtual Laboratory (MCT314)
+        - Exam Officer & Course Adviser (2019–2021)
+        - SIWES Coordinator – Industrial Training Programme (2020–2022)
     - title: Short-term Research Scholar
       institution: University of Texas at Dallas, United States
       year: 2019
       description:
-        - Designed and implemented robust H-infinity controllers.
-        - Worked on precision micropositioning systems.
+        - Designed and implemented robust H-infinity controllers
+        - Worked on precision micropositioning systems
 
 - title: Research Interests
   type: nested_list
@@ -80,10 +118,13 @@
       institution: IEEE Robotics and Automation Letters (RA-L)
       year: 2025
       description:
-        - Presented at IEEE/RSJ IROS 2025, Hangzhou, China.
+        - Presented at IEEE/RSJ IROS 2025, Hangzhou, China
     - title: Robust H-infinity Control of Two Novel MEMS Force Sensors
       institution: IOP SciNotes
       year: 2025
+    - title: Design and Numerical Simulation of a Novel High-Speed Multi-DOF Piezoelectric Positioner
+      institution: Journal of Applied Science and Engineering
+      year: 2021
 
 - title: Honors and Awards
   type: time_table
@@ -92,20 +133,27 @@
       items:
         - IROS-SDC Travel Award (IEEE/RSJ IROS)
         - University of Sheffield “The Deal” Recognition Awards (Teaching Excellence & Collaboration)
+        - Recognition for >150 hours of TA work (University grading Points 2 & 4)
     - year: 2024
       items:
-        - University of Sheffield GTA Award for Exceptional Commitment
+        - University of Sheffield GTA Award for Exceptional Commitment to achieving HEA status
     - year: 2019
       items:
         - UBFC Excellence Research Scholarship
 
-- title: Professional Service & Outreach
+- title: Professional Memberships & Service
   type: list
   contents:
+    - Fellow of the Higher Education Academy (FHEA), UK
+    - IEEE (Graduate Member, 97928811)
+    - IET Student Member (1101089646)
+    - IAENG Member (292383)
+    - COREN Registered Engineer, Nigeria (R61510)
+    - IMechE Student Affiliate (80503782)
+    - Reviewer: IEEE ICRA 2026, AAMAS 2024
     - Social Media Ambassador, IEEE/RSJ IROS 2025
-    - STEM Ambassador (UK)
+    - STEM Ambassador, UK
     - Engineering Ambassador, Royal Academy of Engineering (RAEng)
-    - Reviewer: IEEE ICRA, AAMAS
 
 - title: Technical Skills
   type: list
@@ -114,3 +162,5 @@
     - Programming: Python, C++, MATLAB, Arduino
     - Control & ML: H-infinity control, reinforcement learning
     - CAD & Manufacturing: SolidWorks, Inventor, additive manufacturing
+    - Simulation: Simulink, Simscape, NI MultiSim
+    - VLE & Teaching Tools: Blackboard, Moodle, Echo360, Turnitin
