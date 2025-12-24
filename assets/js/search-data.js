@@ -413,7 +413,7 @@ ninja.data = [{
           section: "News",},{id: "news-i-was-awarded-the-iros-sdc-award-to-support-my-participation-and-presentation-at-ieee-rsj-iros-2025-in-hangzhou-china-recognizing-the-quality-and-impact-of-my-research-in-modular-and-swarm-robotics",
           title: 'I was awarded the IROS-SDC Award to support my participation and presentation at...',
           description: "",
-          section: "News",},{id: "news-i-attended-the-ieee-rsj-international-conference-on-intelligent-robots-and-systems-iros-2025-in-hangzhou-china-from-19th-to-25th-october-2025-during-the-conference-i-presented-our-research-on-scalable-plug-and-play-robotic-fabrics-based-on-kilobot-modules-providing-an-excellent-opportunity-to-share-findings-with-international-robotics-experts-and-engage-in-collaborative-discussions-i-also-served-as-a-social-media-ambassador-promoting-conference-activities-and-research-highlights-across-ieee-ras-platforms",
+          section: "News",},{id: "news-i-attended-the-ieee-rsj-international-conference-on-intelligent-robots-and-systems-iros-2025-in-hangzhou-china-from-19th-to-25th-october-2025-during-the-conference-i-presented-our-research-on-scalable-plug-and-play-robotic-fabrics-based-on-kilobot-modules-providing-an-excellent-opportunity-to-share-findings-with-international-robotics-experts-and-engage-in-collaborative-discussions-i-also-served-as-a-amp-lt-span-style-col",
           title: 'I attended the IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2025)...',
           description: "",
           section: "News",},{id: "news-phd-thesis-successfully-defended",
