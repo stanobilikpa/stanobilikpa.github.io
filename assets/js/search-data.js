@@ -407,7 +407,10 @@ ninja.data = [{
             window.location.href = "/blog/2015/formatting-and-links/";
           
         },
-      },{id: "news-i-was-awarded-the-iros-sdc-award-to-support-my-participation-and-presentation-at-ieee-rsj-iros-2025-in-hangzhou-china-recognizing-the-quality-and-impact-of-my-research-in-modular-and-swarm-robotics",
+      },{id: "news-stanley-c-obilikpa-has-been-honoured-with-multiple-teaching-awards-for-the-2024-25-academic-year-at-the-university-of-sheffield-the-deal-recognition-award-school-of-electronic-and-electrical-engineering-for-achieving-excellence-as-a-teaching-assistant-the-deal-recognition-award-multidisciplinary-engineering-education-mee-for-working-collaboratively-as-a-teaching-assistant-additionally-stanley-was-recognised-for-completing-over-150-hours-of-teaching-assistant-work-in-2024-25-qualifying-for-point-2-on-grade-6-and-point-4-on-grade-7-of-the-university-grade-structure-effective-29-september-2025-this-follows-the-university-of-sheffield-ta-award-for-exceptional-commitment-to-achieving-hea-status-in-2023-24-stanley-is-proud-to-contribute-to-student-learning-and-high-quality-engineering-education",
+          title: 'Stanley C. Obilikpa has been honoured with multiple teaching awards for the 2024/25...',
+          description: "",
+          section: "News",},{id: "news-i-was-awarded-the-iros-sdc-award-to-support-my-participation-and-presentation-at-ieee-rsj-iros-2025-in-hangzhou-china-recognizing-the-quality-and-impact-of-my-research-in-modular-and-swarm-robotics",
           title: 'I was awarded the IROS-SDC Award to support my participation and presentation at...',
           description: "",
           section: "News",},{id: "news-i-attended-the-ieee-rsj-international-conference-on-intelligent-robots-and-systems-iros-2025-in-hangzhou-china-from-19th-to-25th-october-2025-during-the-conference-i-presented-our-research-on-scalable-plug-and-play-robotic-fabrics-based-on-kilobot-modules-providing-an-excellent-opportunity-to-share-findings-with-international-robotics-experts-and-engage-in-collaborative-discussions-i-also-served-as-a-social-media-ambassador-promoting-conference-activities-and-research-highlights-across-ieee-ras-platforms",
