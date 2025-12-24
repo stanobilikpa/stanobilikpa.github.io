@@ -9,7 +9,7 @@ nav_order: 7
 profiles:
   # Your profile
   - align: right
-    image: /assets/img/prof.jpeg
+    image: /assets/img/prof1.png   # updated image name
     content: about.md
     image_circular: false
     more_info: >
@@ -22,11 +22,10 @@ profiles:
 
   # Example second profile (if needed)
   - align: left
-    image: /assets/img/prof.jpeg
+    image: /assets/img/prof2.png   # make sure second image name is correct too
     content: about.md
     image_circular: false
     more_info: >
       <p>Co-researcher in robotics and modular systems</p>
       <p>Contact info and role details here</p>
 ---
-
