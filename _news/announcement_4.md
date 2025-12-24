@@ -1,5 +1,5 @@
 ---
-layout: news
+layout: post
 title: Teaching Recognition Awards 2024/25
 date: 2025-07-19
 inline: true
