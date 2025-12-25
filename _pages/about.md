@@ -42,8 +42,7 @@ Alongside my research, I am deeply committed to engineering education, outreach,
 
 ---
 
-You can optionally link your social media and academic profiles below using Font Awesome or Academicons:
 
 - [LinkedIn](https://www.linkedin.com/in/stanley-chukwuebuka-obilikpa-224045145/)
 - [Google Scholar](https://scholar.google.com/citations?user=XXXX)
-- [ORCID](https://orcid.org/XXXX)
+- [Scalable Robotic Fabrics Supplementary Material](https://orda.shef.ac.uk/articles/media/Scalable_Plug-and-Play_Robotic_Fabrics_Based_on_Kilobot_Modules_Supplementary_Material_/27021310)
