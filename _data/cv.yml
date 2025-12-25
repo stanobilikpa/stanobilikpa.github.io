@@ -48,39 +48,12 @@
       institution: University of Sheffield, United Kingdom
       year: Nov 2022 – Present
       description:
-  - Delivered and supported undergraduate and postgraduate teaching in robotics, automation, control systems, machine learning, and embedded systems.
-
-  - Department of Automatic Control and Systems Engineering:
-      - Industrial Automation (ACS6131) – Siemens PLC programming using Bytronic kits
-      - Robotic Systems (ACS337)
-      - Machine Learning (ACS341)
-      - Modelling, Analysis, and Control (ACS132)
-      - Process Control (ACS219)
-      - System and Control (GEE205)
-      - Digital and Embedded Systems (ACS11001)
-
-  - Electronic and Control Lab:
-      - PLC and Event-Based Programming (AMR21001) – Allen-Bradley PLCs
-      - Control Systems Design and Analysis (ACS230)
-      - Mechatronics Design Project (ACS231)
-      - Design and Build Project – Software and Hardware (ACS130)
-      - Frequency Domain Analysis and Discrete Systems (GEE205)
-
-  - Structures and Dynamics Lab:
-      - Elastic Instability: Torsional Buckling, Thin Plate, Frames (GEE208)
-      - Tissue Elasticity (IPE01001)
-      - Material Characterization: Tensile Test (MEC209)
-      - Hole-in-Plate: Mohr’s Circles (MAT1600)
-      - Stress Distribution in a Thick-Walled Cylinder (AMR223)
-      - Pasco Bridge Experiment (AER21002)
-
-  - Cleanroom Lab:
-      - Micro-measurement (GEE102)
-      - Saw Filter Fabrication (EEE228)
-
-  - Project Space Workshop:
-      - CNC laser machining and digital manufacturing
-      - Trained approximately 100 undergraduate students across 30+ lab sessions in high-precision surface manufacturing, laser engraving, and micro-texturing
+        - Delivered and supported undergraduate and postgraduate teaching in robotics, automation, control systems, machine learning, and embedded systems.
+        - "Department of Automatic Control and Systems Engineering: Industrial Automation (ACS6131), Robotic Systems (ACS337), Machine Learning (ACS341), Modelling, Analysis, and Control (ACS132), Process Control (ACS219), System and Control (GEE205), Digital and Embedded Systems (ACS11001)."
+        - "Electronic and Control Lab: PLC and Event-Based Programming (AMR21001), Control Systems Design and Analysis (ACS230), Mechatronics Design Project (ACS231), Design and Build Project (ACS130), Frequency Domain Analysis and Discrete Systems (GEE205)."
+        - "Structures and Dynamics Lab: Elastic Instability (GEE208), Tissue Elasticity (IPE01001), Material Characterization (MEC209), Mohr’s Circles (MAT1600), Stress Distribution in Thick-Walled Cylinder (AMR223), Pasco Bridge Experiment (AER21002)."
+        - "Cleanroom Lab: Micro-measurement (GEE102), Saw Filter Fabrication (EEE228)."
+        - "Project Space Workshop: CNC laser machining and digital manufacturing; trained ~100 students across 30+ lab sessions."
 
     - title: Teaching Assistant – Group Design Project
       institution: Department of Bioengineering, University of Sheffield
@@ -125,37 +98,36 @@
 - title: Publications
   type: time_table
   contents:
-
     - title: Scalable Plug-and-Play Robotic Fabrics Based on Kilobot Modules
       institution: IEEE Robotics and Automation Letters (RA-L)
       year: 2025
-      link: https://ieeexplore.ieee.org/document/10993294
+      url: https://ieeexplore.ieee.org/document/10993294
       description:
         - Presented at IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2025), Hangzhou, China.
 
     - title: Robust H-infinity Control of Two Novel MEMS Force Sensors
       institution: IOP SciNotes
       year: 2021
-      link: https://doi.org/10.1088/2633-1357/abb933
+      url: https://doi.org/10.1088/2633-1357/abb933
 
     - title: Design and Numerical Simulation of a Novel High-Speed Multi-DOF Piezoelectric Positioner
       institution: Journal of Applied Science and Engineering
       year: 2021
-      link: http://jase.tku.edu.tw/articles/jase-202106-24-3-0016
+      url: http://jase.tku.edu.tw/articles/jase-202106-24-3-0016
       description:
-        - Journal of Applied Science and Engineering, Vol. 24, No. 3, pp. 407–414. :contentReference[oaicite:0]{index=0}
+        - Vol. 24, No. 3, pp. 407–414.
 
     - title: The Major Mechanisms for Efficient Hybrid Energy Harvesting: Overview and Recent Developments
       institution: Asian Review of Mechanical Engineering
       year: 2021
-      link: https://armejournal.org/index.php/arme/article/view/3136
+      url: https://armejournal.org/index.php/arme/article/view/3136
       description:
         - Vol. 10, No. 2, pp. 10–23.
 
     - title: Design, Modelling, Simulation, Fabrication and Performance Evaluation of a Portable Foot Operated Dispenser
       institution: NIPES-Journal of Science and Technology Research
       year: 2021
-      link: https://journals.nipes.org/index.php/njstr/article/view/287
+      url: https://journals.nipes.org/index.php/njstr/article/view/287
       description:
         - Vol. 3, No. 4.
 
@@ -164,7 +136,7 @@
   contents:
     - year: 2022 – 2025
       items:
-        - Fully Funded PhD Scholarship, Department of Automatic Control and Systems Engineering, University of Sheffield
+        - Fully Funded PhD Scholarship, University of Sheffield
 
     - year: 2025
       items:
