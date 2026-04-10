@@ -12,13 +12,16 @@ toc:
 Basics
 Name: Stanley Chukwuebuka Obilikpa
 Label: Robotics Researcher | Lecturer | IEEE Member | HEA Fellow
-Email: scobilikpa1@sheffield.ac.uk
+Email: s.obilikpa@mdx.ac.uk
 Phone: +44 7824 035917
 Url: https://stanobilikpa.github.io/
 Summary: Dedicated engineering academic with over eight years of experience in robotics, modular systems, intelligent control, and engineering education. Experienced in teaching, research, multi-disciplinary project leadership, and outreach.
 
 Work
-2022.11 - Present
+2026.03 - Present
+Lecturer in Automation and Mechatronics
+Department of Design Engineering, Middlesex University, London, UK
+2022.11 - 2026.03
 Teaching Assistant / Graduate Teaching Assistant
 Department of Automatic Control and Systems Engineering, University of Sheffield, UK
 - Delivered and supported courses in robotics, automation, control systems, machine learning, and embedded systems at undergraduate and postgraduate levels.
