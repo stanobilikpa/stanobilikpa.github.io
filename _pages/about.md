@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Robotics Researcher · HEA Fellow · Middlesex University
+subtitle: Robotics Researcher · HEA Fellow · 
 
 profile:
   align: right
@@ -10,7 +10,7 @@ profile:
   image_circular: false
   more_info: >
     <p>Sheffield, United Kingdom</p>
-    <p>Email: <a href="mailto:scobilikpa1@sheffield.ac.uk">s.obilikpa@mdx.ac.uk</a></p>
+    <p>Email: <a href="mailto:scobilikpa1@sheffield.ac.uk">scobilikpa1@sheffield.ac.uk</a></p>
 
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
@@ -29,7 +29,8 @@ latest_posts:
 
 ## Biography
 
-I am a Robotics Researcher and Lecturer in Automation and Mechatronics within the Department of Design Engineering and Mathematics at Middlesex University. I recently completed my PhD in Automatic Control and Systems Engineering at the <span style="color:var(--global-theme-color);">University of Sheffield</span> (UK) and I am a Fellow of the Higher Education Academy (FHEA), with over eight years of experience in university-level teaching, research, and student mentoring.
+
+I recently completed my PhD in Automatic Control and Systems Engineering at the <span style="color:var(--global-theme-color);">University of Sheffield</span> (UK) and I am a Fellow of the Higher Education Academy (FHEA), with over eight years of experience in university-level teaching, research, and student mentoring.
 
 My research focuses on the development of scalable, deformable, and reconfigurable systems using swarm robots for coordinated navigation, collective manipulation, and investigation of emergent behaviours. I am particularly interested in bridging control theory, distributed intelligence, and real-world robotic deployment, with applications spanning autonomous systems, sustainable automation, and future aerospace and space robotics. My work has been published in leading venues such as IEEE Robotics and Automation Letters (RA-L) and presented at flagship conferences including the 2025 IEEE/RSJ IROS (Hangzhou, China).
 
