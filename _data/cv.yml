@@ -40,9 +40,15 @@
 - title: Academic & Teaching Experience
   type: time_table
   contents:
+      - title: Lecturer (Research and Teaching)
+      institution: Middlesex University, London
+      year: Feb 2026 – Present
+      description:
+      - Module leader for undergraduate and postgraduate modules in mechatronics, robotics, and control systems
+      
     - title: Teaching Assistant / Graduate Teaching Assistant
       institution: University of Sheffield, UK
-      year: Nov 2022 – Present
+      year: Nov 2022 – March 2026
       description:
         - Delivered and supported undergraduate and postgraduate teaching in robotics, automation, control systems, machine learning, and embedded systems.
         - Department of Automatic Control and Systems Engineering Labs:
