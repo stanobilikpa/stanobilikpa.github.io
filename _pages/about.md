@@ -9,7 +9,7 @@ profile:
   image: prof1.png   # just the filename, no path
   image_circular: false
   more_info: >
-    <p>Sheffield, United Kingdom</p>
+    <p>London, United Kingdom</p>
     <p>Email: <a href="mailto:scobilikpa1@sheffield.ac.uk">S.Obilikpa@mdx.ac.uk</a></p>
 
 
