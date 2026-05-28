@@ -30,7 +30,7 @@ latest_posts:
 ## Biography
 
 
-I recently completed my PhD in Automatic Control and Systems Engineering at the <span style="color:var(--global-theme-color);">University of Sheffield</span> (UK) and I am a Fellow of the Higher Education Academy (FHEA), with over eight years of experience in university-level teaching, research, and student mentoring.
+I am currently working as a Lecturer in Automation and Mechatronics with Middlesex University. I recently completed my PhD in Automatic Control and Systems Engineering at the <span style="color:var(--global-theme-color);">University of Sheffield</span> (UK) and I am a Fellow of the Higher Education Academy (FHEA), with over eight years of experience in university-level teaching, research, and student mentoring.
 
 My research focuses on the development of scalable, deformable, and reconfigurable systems using swarm robots for coordinated navigation, collective manipulation, and investigation of emergent behaviours. I am particularly interested in bridging control theory, distributed intelligence, and real-world robotic deployment, with applications spanning autonomous systems, sustainable automation, and future aerospace and space robotics. My work has been published in leading venues such as IEEE Robotics and Automation Letters (RA-L) and presented at flagship conferences including the 2025 IEEE/RSJ IROS (Hangzhou, China).
 
