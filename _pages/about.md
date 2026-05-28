@@ -10,7 +10,7 @@ profile:
   image_circular: false
   more_info: >
     <p>Sheffield, United Kingdom</p>
-    <p>Email: <a href="mailto:scobilikpa1@sheffield.ac.uk">scobilikpa1@sheffield.ac.uk</a></p>
+    <p>Email: <a href="mailto:scobilikpa1@sheffield.ac.uk">S.Obilikpa@mdx.ac.uk</a></p>
 
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
