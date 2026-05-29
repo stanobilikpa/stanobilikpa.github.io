@@ -4,7 +4,7 @@ permalink: /teaching/
 title: Teaching
 description: Courses taught and supported across undergraduate and postgraduate levels in robotics, control, and mechatronics.
 nav: true
-nav_order: 6
+nav_order: 8
 ---
 
 I have over eight years of experience delivering and supporting high-quality teaching in robotics, control engineering, mechatronics, automation, and systems engineering across undergraduate and postgraduate programmes. My teaching emphasizes hands-on learning, project-based instruction, and the integration of theory with real-world engineering applications.
