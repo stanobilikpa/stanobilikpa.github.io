@@ -11,9 +11,14 @@ I have over eight years of experience delivering and supporting high-quality tea
 
 ---
 
+## Middlesex University, London, United Kingdom
+**Lecturer in Automation and Mechatronics
+*Department of Design Engineering, Middlesex University, London, UK
+*Feb. 2026 - Present
+
 ## University of Sheffield, United Kingdom
 **Teaching Assistant / Graduate Teaching Assistant**  
-*November 2022 – Present*
+*November 2022 – March 2026*
 
 ### Department of Automatic Control and Systems Engineering
 - Industrial Automation (ACS6131) – Siemens PLC programming using Bytronic kits  
