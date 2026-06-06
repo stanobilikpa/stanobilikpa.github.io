@@ -43,10 +43,11 @@
   type: time_table
   contents:
     - title: Lecturer (Research and Teaching)
-      institution: Middlesex University, London
+      institution: Middlesex University
       year: Feb 2026 – Present
       description:
-        - Module leader for undergraduate and postgraduate modules in mechatronics, robotics, and control systems
+        - Module leader for undergraduate and postgraduate modules in <span style="color:#1f77b4;">automation and mechatronics</span>, including PDE2821 (Mechatronics), PDE2822 (Sensors, Actuators and Control), PDE3822 (Mechatronic Systems and Industry 4.0), and PDE4515 (MSI Group Project).
+        - Supervision of research in <span style="color:#1f77b4;">robotics and autonomous systems</span>.
 
     - title: Teaching Assistant / Graduate Teaching Assistant
       institution: University of Sheffield, UK
