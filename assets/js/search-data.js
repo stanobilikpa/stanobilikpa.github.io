@@ -30,19 +30,19 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "nav-teaching",
-          title: "Teaching",
-          description: "Courses taught and supported across undergraduate and postgraduate levels in robotics, control, and mechatronics.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/teaching/";
-          },
         },{id: "nav-people",
           title: "People",
           description: "Members of our robotics lab and research group",
           section: "Navigation",
           handler: () => {
             window.location.href = "/people/";
+          },
+        },{id: "nav-teaching",
+          title: "Teaching",
+          description: "Courses taught and supported across undergraduate and postgraduate levels in robotics, control, and mechatronics.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/teaching/";
           },
         },{id: "post-a-post-with-plotly-js",
         
@@ -421,7 +421,10 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "projects-project-1",
+            },},{id: "news-stanley-c-obilikpa-has-been-endorsed-by-the-royal-academy-of-engineering-as-a-promising-global-talent-in-recognition-of-demonstrated-excellence-strong-academic-contribution-and-potential-for-future-impact-in-engineering-and-technology-this-endorsement-is-part-of-the-uk-s-global-talent-framework-which-identifies-individuals-showing-exceptional-promise-in-engineering-and-related-disciplines-particularly-those-contributing-to-research-innovation-and-the-advancement-of-engineering-education-and-practice-through-this-recognition-stanley-is-acknowledged-as-part-of-a-cohort-of-emerging-engineers-expected-to-contribute-to-global-engineering-challenges-and-the-development-of-impactful-technical-solutions-across-academia-and-industry",
+          title: 'Stanley C. Obilikpa has been endorsed by the Royal Academy of Engineering as...',
+          description: "",
+          section: "News",},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
           section: "Projects",handler: () => {
