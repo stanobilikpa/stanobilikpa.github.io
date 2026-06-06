@@ -30,7 +30,7 @@
       institution: University of Sheffield, UK
       year: Feb 2023 – Mar 2026
       description:
-      <span style="color:#1f77b4;">Electronic & Control Labs</span>:
+          <span style="color:#1f77b4;">Electronic & Control Labs</span>:
         - PLC & Event-Based Programming (AMR21001) – Allen-Bradley PLCs
         - Control Systems Design and Analysis (ACS230)
         - Mechatronics Design Project (ACS231)
