@@ -46,7 +46,11 @@
       institution: Middlesex University
       year: Feb 2026 – Present
       description:
-        - Module leader for undergraduate and postgraduate modules in automation and mechatronics, including PDE2821 (Mechatronics), PDE2822 (Sensors, Actuators and Control), PDE3822 (Mechatronic Systems and Industry 4.0), and PDE4515 (MSI Group Project).
+        - Module leader for undergraduate and postgraduate modules in automation and mechatronics, including: 
+          - PDE2821 (Mechatronics), PDE2822 (Sensors, Actuators and Control)
+          - PDE2822 (Sensors, Actuators and Control)
+          - PDE3822 (Mechatronic Systems and Industry 4.0), and
+          - PDE4515 (MSI Group Project).
         - Supervision of research in robotics and autonomous systems.
 
     - title: Teaching/Research Assistant
@@ -63,11 +67,12 @@
           - System and Control (GEE205)
           - Digital and Embedded Systems (ACS11001)
 
-    - title: Teaching/Research Assistant
-      institution: University of Sheffield, UK
+    - title: Teaching Assistant
+      institution: Multidisciplinary Engineering Education (MEE), University of Sheffield, UK
       year: Feb 2023 – Mar 2026
       description:
-        - Multidisciplinary Engineering Education (MEE) – Electronic & Control Labs:
+      
+        - Electronic & Control Labs:
           - PLC & Event-Based Programming (AMR21001) – Allen-Bradley PLCs
           - Control Systems Design and Analysis (ACS230)
           - Mechatronics Design Project (ACS231)
