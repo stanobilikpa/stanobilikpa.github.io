@@ -30,14 +30,14 @@
       institution: University of Sheffield, UK
       year: Feb 2023 – Mar 2026
       description:
-          <span style="color:#1f77b4;">Electronic & Control Labs</span>:
-        - PLC & Event-Based Programming (AMR21001) – Allen-Bradley PLCs
-        - Control Systems Design and Analysis (ACS230)
-        - Mechatronics Design Project (ACS231)
-        - Design & Build Project – Software & Hardware (ACS130)
-        - Frequency Domain Analysis & Discrete Systems (GEE205)
+        - '<span style="color:#1f77b4;"><strong>Electronic & Control Labs</strong></span>'
+          - PLC & Event-Based Programming (AMR21001) – Allen-Bradley PLCs
+          - Control Systems Design and Analysis (ACS230)
+          - Mechatronics Design Project (ACS231)
+          - Design & Build Project – Software & Hardware (ACS130)
+          - Frequency Domain Analysis & Discrete Systems (GEE205)
 
-        - Structures & Dynamics Labs:
+        - '<span style="color:#1f77b4;"><strong>Structures & Dynamics Labs</strong></span>'
           - Elastic Instability – Torsional Buckling, Thin Plate, Frames (GEE208)
           - Tissue Elasticity (IPE01001)
           - Material Characterization – Tensile Test (MEC209)
@@ -45,11 +45,11 @@
           - Stress Distribution in a Thick-Walled Cylinder (AMR223)
           - Pasco Bridge Experiment (AER21002)
 
-        - Cleanroom Labs:
+        - '<span style="color:#1f77b4;"><strong>Cleanroom Labs</strong></span>'
           - Micro-measurement (GEE102)
           - Saw Filter Fabrication (EEE228)
 
-        - Project Space Workshop:
+        - '<span style="color:#1f77b4;"><strong>Project Space Workshop</strong></span>'
           - CNC laser machining and digital manufacturing
           - Trained ~100 undergraduate students across 30+ lab sessions
 
