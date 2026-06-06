@@ -70,9 +70,10 @@
     - title: Teaching Assistant
       institution: Multidisciplinary Engineering Education (MEE), University of Sheffield, UK
       year: Feb 2023 – Mar 2026
-      description:
-      
-        - Electronic & Control Labs:
+      type: nested_list
+      contents:
+    - title: Electronic & Control Labs
+      items:
           - PLC & Event-Based Programming (AMR21001) – Allen-Bradley PLCs
           - Control Systems Design and Analysis (ACS230)
           - Mechatronics Design Project (ACS231)
