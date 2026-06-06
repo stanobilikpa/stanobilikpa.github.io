@@ -1,44 +1,3 @@
-- title: General Information
-  type: map
-  contents:
-    - name: Full Name
-      value: Stanley Chukwuebuka Obilikpa
-    - name: Position
-      value: Robotics Researcher | Lecturer | HEA Fellow | IEEE Member
-    - name: Email
-      value: scobilikpa1@sheffield.ac.uk
-    - name: Phone
-      value: +44 7824 035917
-    - name: Location
-      value: Sheffield, United Kingdom
-    - name: Website
-      value: https://stanobilikpa.github.io/
-    - name: Languages
-      value: English (Fluent), Igbo (Native), French (Intermediate)
-
-- title: Education
-  type: time_table
-  contents:
-    - title: PhD in Automatic Control and Systems Engineering
-      institution: University of Sheffield, UK
-      year: Oct 2022 – Sept 2025
-      description:
-        - Fully funded PhD scholarship.
-        - Research on modular and deformable swarm robotics, intelligent control, and scalable robotic systems.
-
-    - title: MSc in Control for Green Mechatronics (Robotics & Automation)
-      institution: Université Bourgogne Franche-Comté, France
-      year: 2017 – 2019
-      description:
-        - Robotics, automation, and control with MEMS and precision mechatronics training.
-
-    - title: BEng in Mechanical Engineering (First Class Honours)
-      institution: Michael Okpara University of Agriculture, Nigeria
-      year: 2009 – 2014
-      description:
-        - Ranked 1st out of 85 students.
-        - Best graduating student in Mechanical Engineering.
-
 - title: Academic & Teaching Experience
   type: time_table
   contents:
@@ -46,11 +5,11 @@
       institution: Middlesex University
       year: Feb 2026 – Present
       description:
-        - Module leader for undergraduate and postgraduate modules in automation and mechatronics, including: 
-          - PDE2821 (Mechatronics), PDE2822 (Sensors, Actuators and Control)
+        - Module leader for undergraduate and postgraduate modules in automation and mechatronics, including:
+          - PDE2821 (Mechatronics)
           - PDE2822 (Sensors, Actuators and Control)
-          - PDE3822 (Mechatronic Systems and Industry 4.0), and
-          - PDE4515 (MSI Group Project).
+          - PDE3822 (Mechatronic Systems and Industry 4.0)
+          - PDE4515 (MSI Group Project)
         - Supervision of research in robotics and autonomous systems.
 
     - title: Teaching/Research Assistant
@@ -67,20 +26,18 @@
           - System and Control (GEE205)
           - Digital and Embedded Systems (ACS11001)
 
-    - title: Teaching Assistant
-      institution: Multidisciplinary Engineering Education (MEE), University of Sheffield, UK
+    - title: Teaching Assistant – Multidisciplinary Engineering Education (MEE)
+      institution: University of Sheffield, UK
       year: Feb 2023 – Mar 2026
-      type: nested_list
-      contents:
-    - title: Electronic & Control Labs
-      items:
+      description:
+        - Electronic & Control Labs:
           - PLC & Event-Based Programming (AMR21001) – Allen-Bradley PLCs
           - Control Systems Design and Analysis (ACS230)
           - Mechatronics Design Project (ACS231)
           - Design & Build Project – Software & Hardware (ACS130)
           - Frequency Domain Analysis & Discrete Systems (GEE205)
 
-        - MEE Structures & Dynamics Labs:
+        - Structures & Dynamics Labs:
           - Elastic Instability – Torsional Buckling, Thin Plate, Frames (GEE208)
           - Tissue Elasticity (IPE01001)
           - Material Characterization – Tensile Test (MEC209)
@@ -103,128 +60,3 @@
         - Supported 3rd-year Bioengineering students designing thermal cyclers for DNA amplification.
         - Provided guidance on Arduino programming, electronic circuit design, and thermal control using Peltier modules.
         - Assisted with troubleshooting, optimisation, and safe laboratory practice.
-
-    - title: Lecturer II (Mechanical / Mechatronics Engineering)
-      institution: Alex Ekwueme Federal University, Nigeria
-      year: Apr 2016 – Oct 2022
-      description:
-        - Delivered lectures and labs in mechanical vibrations, automation, control engineering, mechatronics system design, additive manufacturing, and machine design.
-        - Coordinated Mechatronics Virtual Laboratory (MCT314).
-        - Exam Officer & Course Adviser (2019–2021)
-        - SIWES Coordinator – Industrial Training Programme (2020–2022)
-
-    - title: Short-term Research Scholar
-      institution: University of Texas at Dallas, USA
-      year: Mar 2019 – Sept 2019
-      description:
-        - Designed and implemented robust H-infinity controllers for MEMS-based sensing systems.
-        - Designed, modeled, and controlled a 6-DOF piezoelectric micropositioner.
-
-- title: Research Interests
-  type: nested_list
-  contents:
-    - title: Robotics & Automation
-      items:
-        - Modular and swarm robotics
-        - Deformable and collective robotic systems
-
-    - title: Control & Intelligence
-      items:
-        - Robust and optimal control
-        - Distributed intelligence and machine learning for robotics
-
-    - title: Smart Systems
-      items:
-        - Smart materials and structures
-        - Sustainable and responsible automation
-
-- title: Publications
-  type: time_table
-  contents:
-    - title: Scalable Plug-and-Play Robotic Fabrics Based on Kilobot Modules
-      institution: IEEE Robotics and Automation Letters (RA-L)
-      year: 2025
-      url: https://ieeexplore.ieee.org/document/10993294
-      description:
-        - Presented at IEEE/RSJ IROS 2025, Hangzhou, China.
-
-    - title: Robust H-infinity Control of Two Novel MEMS Force Sensors
-      institution: IOP SciNotes
-      year: 2021
-      url: https://doi.org/10.1088/2633-1357/abb933
-
-    - title: Design and Numerical Simulation of a Novel High-Speed Multi-DOF Piezoelectric Positioner
-      institution: Journal of Applied Science and Engineering
-      year: 2021
-      url: http://jase.tku.edu.tw/articles/jase-202106-24-3-0016
-
-    - title: The Major Mechanisms for Efficient Hybrid Energy Harvesting
-      institution: Asian Review of Mechanical Engineering
-      year: 2021
-      url: https://armejournal.org/index.php/arme/article/view/3136
-
-    - title: Design, Modelling, Simulation, Fabrication and Performance Evaluation of a Portable Foot Operated Dispenser
-      institution: NIPES-Journal of Science and Technology Research
-      year: 2021
-      url: https://journals.nipes.org/index.php/njstr/article/view/287
-
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 2022 – 2025
-      items:
-        - Fully Funded PhD Scholarship, University of Sheffield
-
-    - year: 2025
-      items:
-        - IROS-SDC Travel Award – IEEE/RSJ IROS, Hangzhou, China
-        - The Deal Recognition Award – Teaching Excellence, University of Sheffield
-        - The Deal Recognition Award – Collaborative Teaching, MEE, University of Sheffield
-
-    - year: 2024
-      items:
-        - University of Sheffield GTA Award for Exceptional Commitment to achieving HEA status
-
-    - year: 2019
-      items:
-        - UBFC Excellence Research Scholarship, University of Texas at Dallas
-
-    - year: 2017 – 2018
-      items:
-        - French Embassy Scholarship Award for Training in France
-
-    - year: 2013
-      items:
-        - Prize for Best Graduating Student, Mechanical Engineering, MOUAU
-
-    - year: 2010
-      items:
-        - Prize Winner, MOUAU Young Scholar Quest Competition
-
-- title: Professional Memberships
-  type: list
-  contents:
-    - Fellow of the Higher Education Academy (FHEA), UK
-    - IEEE Member and UK-RAS Network Participant
-    - Registered Engineer, COREN, Nigeria
-    - Student Affiliate Member, IMechE, UK
-    - Member, International Association of Engineers (IAENG)
-    - Student Member, IET
-
-- title: Professional Service & Outreach
-  type: list
-  contents:
-    - Social Media Ambassador, IEEE/RSJ IROS 2025
-    - STEM Ambassador (UK)
-    - Engineering Ambassador, Royal Academy of Engineering (RAEng)
-    - Reviewer for IEEE ICRA and AAMAS
-
-- title: Technical Skills
-  type: list
-  contents:
-    - Robotics & Automation: ROS, Kilobot platforms, modular swarm systems
-    - Control Engineering: H-infinity, decentralized, robust control
-    - Programming & Simulation: MATLAB/Simulink, Python, C++, R, SQL, Arduino
-    - CAD & Manufacturing: SolidWorks, Autodesk Inventor, CNC laser machining, additive manufacturing
-    - Machine Learning: Regression, neural networks, reinforcement learning
-    - Lab & Workshop Expertise: Cleanroom protocols, micro-measurement, high-precision assembly
